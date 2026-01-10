@@ -2,8 +2,8 @@
 
 <div align="center">
 
-**PhD Veterinary Medicine | MEng Big Data Analytics**  
-**Postdoctoral Researcher, University of Helsinki**
+**PhD Computational Biology | MEng Big Data Analytics**  
+**Healthcare Data Scientist | Postdoctoral Researcher, University of Helsinki**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Karim%20Uddin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/)
 [![GitHub](https://img.shields.io/badge/GitHub-mdkarimuddin-black?style=for-the-badge&logo=github)](https://github.com/mdkarimuddin)
@@ -15,12 +15,13 @@
 
 ## 🎯 About Me
 
-I'm a **Data Scientist** and **Machine Learning Engineer** with a unique background combining:
-- 🎓 **PhD in Veterinary Medicine** - Deep understanding of biological systems
+I'm a **Healthcare Data Scientist**, **Machine Learning Engineer**, and **Computational Biologist** with a unique background combining:
+- 🎓 **PhD in Computational Biology** - Deep understanding of biological systems and bioinformatics
 - 📊 **MEng in Big Data Analytics** - Advanced ML and data engineering skills
-- 🔬 **Postdoctoral Researcher** at University of Helsinki - Research in computational biology
+- 🏥 **Healthcare Data Scientist** - Specialized in medical AI, wearable technology, and predictive health
+- 🔬 **Postdoctoral Researcher** at University of Helsinki - Research in computational biology and genomics
 
-I specialize in building **production-ready ML systems** for healthcare, wearable technology, and bioprocess optimization.
+I specialize in building **production-ready ML systems** for healthcare, wearable technology, bioprocess optimization, and bioinformatics applications.
 
 ---
 

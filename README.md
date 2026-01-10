@@ -26,27 +26,37 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 
 ## 🚀 Featured Projects
 
-### Healthcare & Wearable Technology
+### 🧬 Bioinformatics & Genomics (NEW!)
+- **[megaDNA Phage Classification](https://github.com/mdkarimuddin/megadna-phage-classification)** - DNA language model for phage/plasmid classification using megaDNA embeddings (97.73% AUC)
+- **[HyenaDNA Phage Classification](https://github.com/mdkarimuddin/hyenadna-phage-classification)** - Full-length sequence processing with HyenaDNA (1M+ tokens, 98%+ AUC expected)
+- Both projects feature: CI/CD, unit tests, HPC optimization, multiple classifier comparison
+
+### ⚙️ MLOps & Production ML (NEW!)
+- **[Hybrid MLOps Pipeline](https://github.com/mdkarimuddin/hybrid-mlops-pipeline)** - End-to-end ML lifecycle: train on HPC, deploy anywhere (MLflow, FastAPI, drift detection, A/B testing)
+- **[Distributed ML Training](https://github.com/mdkarimuddin/distributed-ml-training)** - Multi-GPU/multi-node PyTorch DDP on HPC clusters (92% scaling efficiency, 4×V100)
+- **[Causal Inference Health](https://github.com/mdkarimuddin/causal-inference-health)** - Production-ready causal inference toolkit (DoWhy, EconML, Synthetic Control)
+
+### 🏥 Healthcare & Wearable Technology
 - **[Oura Readiness Prediction](https://github.com/mdkarimuddin/oura_readiness_prediction)** - Deep learning (LSTM + Attention) for forecasting recovery scores (R² = 0.87)
 - **[Human Vital Signs Analysis](https://github.com/mdkarimuddin/human_vital_signs)** - ML classification & time series forecasting with LSTM
 - **[Multimodal Sleep Forecasting](https://github.com/mdkarimuddin/multimodal-sleep-forecasting)** - PyTorch LSTM for sleep quality prediction from sensor data
 - **[Fitbit Sleep Analysis](https://github.com/mdkarimuddin/fitbit_sleep_analysis)** - Sleep efficiency prediction with SHAP explainability
 
-### Deep Learning & Computer Vision
-- **[COVID-19 X-ray Classification](https://github.com/mdkarimuddin/covid-xray-classification)** - EfficientNet CNN with Flask deployment
+### 🖼️ Deep Learning & Computer Vision
+- **[COVID-19 X-ray Classification](https://github.com/mdkarimuddin/covid-xray-classification)** - EfficientNet CNN with Flask deployment & CI/CD
 - **[Dog vs Cat Classification](https://github.com/mdkarimuddin/Dog-vs-cat_image_prediction)** - CNN for image classification
-- **[covid-flask](https://github.com/mdkarimuddin/covid-flask)** - Flask web app for medical image classification
+- **[covid-flask](https://github.com/mdkarimuddin/covid-flask)** - Flask web app with Docker for medical image classification
 
-### Hybrid Modeling & Bioprocess
+### 🔬 Hybrid Modeling & Bioprocess
 - **[Hybrid Modeling Pipeline](https://github.com/mdkarimuddin/hybrid-modeling-bioprocess)** - Combining mechanistic ODE models with LSTM
-- **[Real Data Hybrid Modeling](https://github.com/mdkarimuddin/real-data-hybrid-modeling)** - Physics-informed ML for bioprocess optimization
+- **[Real Data Hybrid Modeling](https://github.com/mdkarimuddin/real-data-hybrid-modeling)** - Physics-informed ML for bioprocess optimization (R² = 0.9907)
 
-### Time Series & NLP
+### 📈 Time Series & NLP
 - **[Time Series Forecasting](https://github.com/mdkarimuddin/Time_Series_Forecasting_-Sunspots-)** - RNN for sunspots prediction
 - **[Text Mining](https://github.com/mdkarimuddin/Text_mining)** - NLP for ACL Anthology abstracts
 - **[Text Mining Final Report](https://github.com/mdkarimuddin/text-mining-final-report)** - Comprehensive NLP analysis
 
-### Regression & Classification
+### 📊 Regression & Classification
 - **[Superconductivity Analysis](https://github.com/mdkarimuddin/Binary_and_multiclass_classification_superconductivity_dataset)** - Regression and multiclass classification
 - **[Sensor Data Demo](https://github.com/mdkarimuddin/sensor-data-demo)** - Data preprocessing and ML pipeline
 
@@ -76,6 +86,10 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -93,21 +107,25 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Interests & Expertise
 
-- 🤖 **Machine Learning**: Deep learning, time series forecasting, hybrid modeling
+- 🧬 **Bioinformatics & Genomics**: DNA language models (megaDNA, HyenaDNA), phage classification, sequence analysis
+- 🤖 **Machine Learning**: Deep learning, time series forecasting, hybrid modeling, distributed training
+- ⚙️ **MLOps & Production**: CI/CD, model versioning, deployment, monitoring, A/B testing
+- 📊 **Causal Inference**: Treatment effect estimation, heterogeneous effects, policy evaluation
 - 🏥 **Healthcare AI**: Wearable technology, medical image analysis, predictive health
-- 🧬 **Computational Biology**: Bioinformatics, genomics, microbiome analysis
-- 📈 **Data Science**: Feature engineering, model interpretability, production ML
+- 📈 **Data Science**: Feature engineering, model interpretability, production ML systems
 
 ---
 
-## 📝 Recent Publications & Projects
+## 📝 Recent Highlights
 
-- **Hybrid Modeling**: Combining mechanistic models with ML for bioprocess optimization
-- **Predictive Health**: Forecasting readiness and recovery using wearable sensor data
-- **Time Series Analysis**: LSTM and RNN models for sequential data prediction
-- **Explainable AI**: SHAP analysis for model interpretability
+- 🧬 **DNA Language Models**: Production pipelines for phage/plasmid classification using megaDNA & HyenaDNA
+- ⚙️ **MLOps Excellence**: End-to-end pipelines with MLflow, CI/CD, distributed training on HPC
+- 📊 **Causal Inference**: Production-ready toolkit for health data analysis with DoWhy/EconML
+- 🔬 **Hybrid Modeling**: Physics-informed ML combining mechanistic models with deep learning (R² = 0.9907)
+- 🏥 **Predictive Health**: Forecasting readiness and recovery using wearable sensor data (R² = 0.87)
+- 📈 **Explainable AI**: SHAP analysis for model interpretability across healthcare applications
 
 ---
 

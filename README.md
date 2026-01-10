@@ -5,9 +5,11 @@
 **PhD Computational Biology | MEng Big Data Analytics**  
 **Healthcare Data Scientist | Postdoctoral Researcher, University of Helsinki**
 
+🎯 **Open to**: Data Science | ML Engineering | Bioinformatics roles in biotech/pharma and healthcare tech
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Karim%20Uddin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/)
 [![GitHub](https://img.shields.io/badge/GitHub-mdkarimuddin-black?style=for-the-badge&logo=github)](https://github.com/mdkarimuddin)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mdkarim.uddin@helsinki.fi)
 
 </div>
 
@@ -28,20 +30,20 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 ## 🚀 Featured Projects
 
 ### 🧬 Bioinformatics & Genomics (NEW!)
-- **[megaDNA Phage Classification](https://github.com/mdkarimuddin/megadna-phage-classification)** - DNA language model for phage/plasmid classification using megaDNA embeddings (97.73% AUC)
-- **[HyenaDNA Phage Classification](https://github.com/mdkarimuddin/hyenadna-phage-classification)** - Full-length sequence processing with HyenaDNA (1M+ tokens, 98%+ AUC expected)
-- Both projects feature: CI/CD, unit tests, HPC optimization, multiple classifier comparison
+- **[megaDNA Phage Classification](https://github.com/mdkarimuddin/megadna-phage-classification)** - Production DNA language model pipeline for phage/plasmid classification (97.73% AUC). Scales to 25,000+ sequences on HPC with 97%+ accuracy.
+- **[HyenaDNA Phage Classification](https://github.com/mdkarimuddin/hyenadna-phage-classification)** - Full-length sequence processing with HyenaDNA (1M+ tokens, 98%+ AUC expected). Handles complete genomes without truncation.
+- Both projects feature: CI/CD, unit tests, HPC optimization, multiple classifier comparison. Production-ready for biotech/pharma applications.
 
 ### ⚙️ MLOps & Production ML (NEW!)
-- **[Hybrid MLOps Pipeline](https://github.com/mdkarimuddin/hybrid-mlops-pipeline)** - End-to-end ML lifecycle: train on HPC, deploy anywhere (MLflow, FastAPI, drift detection, A/B testing)
-- **[Distributed ML Training](https://github.com/mdkarimuddin/distributed-ml-training)** - Multi-GPU/multi-node PyTorch DDP on HPC clusters (92% scaling efficiency, 4×V100)
-- **[Causal Inference Health](https://github.com/mdkarimuddin/causal-inference-health)** - Production-ready causal inference toolkit (DoWhy, EconML, Synthetic Control)
+- **[Hybrid MLOps Pipeline](https://github.com/mdkarimuddin/hybrid-mlops-pipeline)** - End-to-end ML lifecycle: train on HPC, deploy anywhere (MLflow, FastAPI, drift detection, A/B testing). Production-ready for enterprise deployment.
+- **[Distributed ML Training](https://github.com/mdkarimuddin/distributed-ml-training)** - Multi-GPU/multi-node PyTorch DDP on HPC clusters (92% scaling efficiency, 4×V100). Enables 4-6x faster research iteration cycles.
+- **[Causal Inference Health](https://github.com/mdkarimuddin/causal-inference-health)** - Production-ready causal inference toolkit (DoWhy, EconML, Synthetic Control) for clinical trial analysis and observational studies
 
 ### 🏥 Healthcare & Wearable Technology
-- **[Oura Readiness Prediction](https://github.com/mdkarimuddin/oura_readiness_prediction)** - Deep learning (LSTM + Attention) for forecasting recovery scores (R² = 0.87)
-- **[Human Vital Signs Analysis](https://github.com/mdkarimuddin/human_vital_signs)** - ML classification & time series forecasting with LSTM
-- **[Multimodal Sleep Forecasting](https://github.com/mdkarimuddin/multimodal-sleep-forecasting)** - PyTorch LSTM for sleep quality prediction from sensor data
-- **[Fitbit Sleep Analysis](https://github.com/mdkarimuddin/fitbit_sleep_analysis)** - Sleep efficiency prediction with SHAP explainability
+- **[Oura Readiness Prediction](https://github.com/mdkarimuddin/oura_readiness_prediction)** - Production-ready deep learning (LSTM + Attention) for forecasting recovery scores (R² = 0.87). Ready for integration with fitness platforms and wearable devices.
+- **[Human Vital Signs Analysis](https://github.com/mdkarimuddin/human_vital_signs)** - ML classification & time series forecasting with LSTM for continuous health monitoring
+- **[Multimodal Sleep Forecasting](https://github.com/mdkarimuddin/multimodal-sleep-forecasting)** - PyTorch LSTM for sleep quality prediction from sensor data (24,000+ records processed)
+- **[Fitbit Sleep Analysis](https://github.com/mdkarimuddin/fitbit_sleep_analysis)** - Sleep efficiency prediction with SHAP explainability for personalized health insights
 
 ### 🖼️ Deep Learning & Computer Vision
 - **[COVID-19 X-ray Classification](https://github.com/mdkarimuddin/covid-xray-classification)** - EfficientNet CNN with Flask deployment & CI/CD
@@ -49,8 +51,8 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 - **[covid-flask](https://github.com/mdkarimuddin/covid-flask)** - Flask web app with Docker for medical image classification
 
 ### 🔬 Hybrid Modeling & Bioprocess
-- **[Hybrid Modeling Pipeline](https://github.com/mdkarimuddin/hybrid-modeling-bioprocess)** - Combining mechanistic ODE models with LSTM
-- **[Real Data Hybrid Modeling](https://github.com/mdkarimuddin/real-data-hybrid-modeling)** - Physics-informed ML for bioprocess optimization (R² = 0.9907)
+- **[Hybrid Modeling Pipeline](https://github.com/mdkarimuddin/hybrid-modeling-bioprocess)** - Combining mechanistic ODE models with LSTM for bioprocess optimization
+- **[Real Data Hybrid Modeling](https://github.com/mdkarimuddin/real-data-hybrid-modeling)** - **Publication-ready** physics-informed ML combining mechanistic models with deep learning (R² = 0.9907). Ready for bioprocess industry applications.
 
 ### 📈 Time Series & NLP
 - **[Time Series Forecasting](https://github.com/mdkarimuddin/Time_Series_Forecasting_-Sunspots-)** - RNN for sunspots prediction
@@ -94,6 +96,17 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 
 ---
 
+## 🏅 Certifications & Professional Development
+
+- ☁️ **Microsoft Azure for AI and Machine Learning** (Coursera, 2025) - Cloud ML platform and AI services
+- 🤖 **AWS Generative AI Applications** (Coursera, 2025) - Building generative AI solutions on AWS
+- 📊 **Product Ideation, Design, and Management** (Coursera, 2025) - Product development and management
+- 📈 **Big Data Analytics Specialization** (Arcada/Coursera, 2023) - Advanced data analytics and ML
+- 🔬 **HPC Optimization** - Advanced SLURM and distributed computing expertise
+- ⚙️ **MLOps & DevOps** - CI/CD, containerization, and production ML deployment
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -134,9 +147,38 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/)
+💼 **Actively exploring opportunities in:**
+- AI/ML Engineer roles at biotech/pharma companies
+- Data Science positions in healthcare tech
+- Bioinformatics platform development
+- Research Scientist roles in computational biology
+
+**Connect with me:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/) - Healthcare Data Scientist at University of Helsinki | PhD Computational Biology
 - 🐙 [GitHub](https://github.com/mdkarimuddin)
-- 📧 Feel free to reach out for collaborations or opportunities!
+- 📧 [Email](mailto:mdkarim.uddin@helsinki.fi) - Reach out for collaborations, opportunities, or technical discussions!
+
+---
+
+## 📚 Publications & Research
+
+- 🔬 **Hybrid Modeling Research** - Combining mechanistic ODE models with LSTM for bioprocess optimization (R² = 0.9907)
+- 🧬 **DNA Language Models** - Production pipelines for phage/plasmid classification using megaDNA & HyenaDNA
+- 🏥 **Predictive Health** - Forecasting readiness and recovery using wearable sensor data (R² = 0.87)
+- 📊 **Causal Inference** - Production-ready toolkit for health data analysis with DoWhy/EconML
+
+*Research outputs available upon request. Actively contributing to computational biology and healthcare AI research.*
+
+---
+
+## 🌟 Open Source & Collaboration
+
+- 🔧 **Maintained Repositories** - Production-ready ML pipelines with CI/CD, comprehensive testing, and documentation
+- 🤝 **Collaborative Research** - Working with University of Helsinki research groups on computational biology projects
+- 📖 **Code Reviews & Mentoring** - Contributing to open-source bioinformatics and ML tools
+- 🎓 **Knowledge Sharing** - Documenting best practices for HPC ML workflows and MLOps pipelines
+
+---
 
 ### 💡 Currently Learning
 
@@ -146,11 +188,11 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 
 ### 🏆 Achievements
 
-- ✅ Built production ML pipelines handling 25,000+ DNA sequences
+- ✅ Built production ML pipelines handling 25,000+ DNA sequences with 97%+ accuracy
 - ✅ Achieved 97.73% AUC in phage classification using DNA language models
-- ✅ Implemented distributed training with 92% scaling efficiency on HPC clusters
-- ✅ Developed end-to-end MLOps pipelines with CI/CD, monitoring, and A/B testing
-- ✅ Published research combining mechanistic models with deep learning (R² = 0.9907)
+- ✅ Implemented distributed training with 92% scaling efficiency on HPC clusters, enabling 4-6x faster research iteration
+- ✅ Developed end-to-end MLOps pipelines with CI/CD, monitoring, and A/B testing for enterprise deployment
+- ✅ Published research combining mechanistic models with deep learning (R² = 0.9907) - publication-ready hybrid modeling
 
 ---
 

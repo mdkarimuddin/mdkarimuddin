@@ -97,11 +97,13 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdkarimuddin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdkarimuddin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkarimuddin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkarimuddin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&exclude_repo=mdkarimuddin)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mdkarimuddin&theme=radical&hide_border=true&background=0D1117)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdkarimuddin&theme=radical&no-frame=true&no-bg=true&column=4)
 
 </div>
 
@@ -135,6 +137,20 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 - 🐙 [GitHub](https://github.com/mdkarimuddin)
 - 📧 Feel free to reach out for collaborations or opportunities!
 
+### 💡 Currently Learning
+
+- 🔬 Advanced genomics: Long-read sequencing analysis, structural variant detection
+- ⚙️ Cloud ML: AWS SageMaker, GCP Vertex AI, model serving optimization
+- 📊 Causal ML: Advanced methods for observational studies, instrumental variables
+
+### 🏆 Achievements
+
+- ✅ Built production ML pipelines handling 25,000+ DNA sequences
+- ✅ Achieved 97.73% AUC in phage classification using DNA language models
+- ✅ Implemented distributed training with 92% scaling efficiency on HPC clusters
+- ✅ Developed end-to-end MLOps pipelines with CI/CD, monitoring, and A/B testing
+- ✅ Published research combining mechanistic models with deep learning (R² = 0.9907)
+
 ---
 
 <div align="center">
@@ -142,5 +158,15 @@ I specialize in building **production-ready ML systems** for healthcare, wearabl
 **⭐ Star my repositories if you find them interesting!**
 
 *"Turning data into insights, insights into actions."*
+
+---
+
+### 📈 Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdkarimuddin.mdkarimuddin&left_color=gray&right_color=blue)
+
+---
+
+**Last Updated**: January 2025
 
 </div>

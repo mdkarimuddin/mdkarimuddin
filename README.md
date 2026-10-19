@@ -2,8 +2,8 @@
 
 Computational biologist and data scientist. I build machine learning methods for DNA sequences, metagenomes, and multi-omics data, and I run them on HPC.
 
-**PhD Computational Biology** (University of Helsinki) · **MEng Big Data Analytics** (Arcada) · Postdoctoral researcher, Vatanen Lab · Helsinki, Finland  
-Open to senior computational biology, bioinformatics, and ML-for-biology roles in the EU and Switzerland.
+**PhD in veterinary medicine** (University of Helsinki) · **MEng Big Data Analytics** (Arcada) · Postdoctoral researcher, Vatanen Lab · Helsinki, Finland  
+Open to data science, machine learning, and AI roles in Finland. Computational biology is the bridge. Also open to the rest of the EU and Switzerland.
 
 [LinkedIn](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/) · [Email](mailto:karim.vetmed@gmail.com)
 
@@ -55,7 +55,7 @@ Bioinformatics context: metagenomics workflows, HGT and mobile-element analyses,
 - Postdoctoral Researcher, University of Helsinki (Apr 2024 – present)
 - Doctoral Researcher, University of Helsinki (Jan 2020 – Feb 2024)
 - Earlier research roles at icddr,b and ECTAD-FAO (field epidemiology and data)
-- About 8 publications · about 183 citations · PhD Thesis Award (Suomen Sianjalostussäätiö, 2024)
+- 6 peer-reviewed publications · about 183 citations · PhD Thesis Award (Suomen Sianjalostussäätiö, 2024)
 
 Finnish citizen · Finnish B1 · Based in Helsinki · Open to relocate within the EU and Switzerland
 
@@ -63,6 +63,6 @@ Finnish citizen · Finnish B1 · Based in Helsinki · Open to relocate within th
 
 ## Looking for
 
-Senior computational biologist, data scientist, or bioinformatics scientist roles where biology, machine learning, and reproducible pipelines meet: microbiome, multi-omics, sequencing analysis, or DNA sequence models.
+Data science, machine learning, and AI roles in Finland, with computational biology as the bridge into microbiome, multi-omics, and sequence analysis. Also open to the rest of the EU and Switzerland.
 
 If that matches a role on your team, reach out via LinkedIn or email.

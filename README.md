@@ -1,6 +1,6 @@
 # Md Karim Uddin, PhD
 
-Computational biologist and data scientist building machine learning systems on large biological datasets — DNA language models, metagenomics, and multi-omics pipelines on HPC.
+Computational biologist and data scientist. I build machine learning methods for DNA sequences, metagenomes, and multi-omics data, and I run them on HPC.
 
 **PhD Computational Biology** (University of Helsinki) · **MEng Big Data Analytics** (Arcada) · Postdoctoral researcher, Vatanen Lab · Helsinki, Finland  
 Open to senior computational biology, bioinformatics, and ML-for-biology roles in the EU and Switzerland.
@@ -9,37 +9,36 @@ Open to senior computational biology, bioinformatics, and ML-for-biology roles i
 
 ---
 
-Public repositories: **24** — newly added agent projects: **mcp-analytics-agent**, **mcp-job-agent**
-
----
-
 ## Current focus (Vatanen Lab)
 
-Leading project: **horizontal gene transfer (HGT)** across **15 infant gut microbiome studies** (**40,000+ bacterial genomes**), with multi-study metagenomic integration and reproducible HPC workf[...]
+Horizontal gene transfer across 15 infant gut microbiome studies (40,000+ bacterial genomes), with multi-study metagenomic integration and reproducible HPC workflows.
+
+The public classifier from this work is **[triMGE-cpu](https://github.com/mdkarimuddin/triMGE-cpu)**. It labels a nucleotide sequence as phage, phage-plasmid, or plasmid, then assigns one of 15 phage-plasmid subtypes. The shipped 5-mer SVM scores 91.9% on 638 test sequences. A model fit on the training split only scores 91.4% on the same sequences. [Try the demo](https://trimge-cpu-wxkbzdebrh3nejpcjdhjum.streamlit.app/).
 
 ---
 
 ## Featured work
 
-### DNA language models & microbial genomics
-- **[hyenadna-phage-classification](https://github.com/mdkarimuddin/hyenadna-phage-classification)** — Full-length sequence classification with HyenaDNA (no aggressive truncation of long genomes[...]
-- **[megadna-phage-classification](https://github.com/mdkarimuddin/megadna-phage-classification)** — Classify phages, plasmids, and phage-plasmids with a pre-trained megaDNA model on HPC (~97.73[...]
+### Microbial sequence classification
+- **[triMGE-cpu](https://github.com/mdkarimuddin/triMGE-cpu)** — 5-mer SVM for phage, phage-plasmid, and plasmid sequences, with a public demo.
+- **[hyenadna-phage-classification](https://github.com/mdkarimuddin/hyenadna-phage-classification)** — Earlier full-length classification experiments with HyenaDNA.
+- **[megadna-phage-classification](https://github.com/mdkarimuddin/megadna-phage-classification)** — Earlier phage, plasmid, and phage-plasmid experiments with a pre-trained megaDNA model.
 
 ### Hybrid / physics-informed modeling
 - **[hybrid-modeling-bioprocess](https://github.com/mdkarimuddin/hybrid-modeling-bioprocess)** — Mechanistic ODEs + LSTM for bioprocess time series.
-- **[real-data-hybrid-modeling](https://github.com/mdkarimuddin/real-data-hybrid-modeling)** — Same hybrid approach on experimental data (reported R² ≈ 0.99 in project docs).
+- **[real-data-hybrid-modeling](https://github.com/mdkarimuddin/real-data-hybrid-modeling)** — The same hybrid approach on experimental data.
 
 ### ML engineering on HPC
-- **[hybrid-mlops-pipeline](https://github.com/mdkarimuddin/hybrid-mlops-pipeline)** — Train on HPC, track experiments, deploy with a lean serving path.
+- **[hybrid-mlops-pipeline](https://github.com/mdkarimuddin/hybrid-mlops-pipeline)** — Train on HPC, track experiments, and deploy with a lean serving path.
 - **[distributed-ml-training](https://github.com/mdkarimuddin/distributed-ml-training)** — Multi-GPU PyTorch training patterns for cluster environments.
 
-### Wearable / health time series *(demos — cite only when the role is sensor/healthtech)*
-- **[oura_readiness_prediction](https://github.com/mdkarimuddin/oura_readiness_prediction)** — LSTM + attention readiness forecasting (reported R² ≈ 0.87).
+### Wearable and health time series
+- **[oura_readiness_prediction](https://github.com/mdkarimuddin/oura_readiness_prediction)** — LSTM and attention model for readiness forecasting.
 - **[human_vital_signs](https://github.com/mdkarimuddin/human_vital_signs)** · **[multimodal-sleep-forecasting](https://github.com/mdkarimuddin/multimodal-sleep-forecasting)** · **[fitbit_sleep_analysis](https://github.com/mdkarimuddin/fitbit_sleep_analysis)**
 
-### Agent & automation projects
-- **[mcp-analytics-agent](https://github.com/mdkarimuddin/mcp-analytics-agent)** — Analytics agent for MCP workflows (Python)
-- **[mcp-job-agent](https://github.com/mdkarimuddin/mcp-job-agent)** — Job orchestration agent for MCP (Python)
+### Agent and automation projects
+- **[mcp-analytics-agent](https://github.com/mdkarimuddin/mcp-analytics-agent)** — Analytics agent for MCP workflows.
+- **[mcp-job-agent](https://github.com/mdkarimuddin/mcp-job-agent)** — Job orchestration agent for MCP.
 
 ---
 
@@ -47,7 +46,7 @@ Leading project: **horizontal gene transfer (HGT)** across **15 infant gut micro
 
 Python · R · PyTorch · scikit-learn · SQL · Git · Docker / Apptainer · MLflow · Slurm / Puhti HPC · AWS / Azure basics
 
-Bioinformatics context: metagenomics workflows, HGT / mobile-element analyses, large genome-scale datasets, FAIR data practices
+Bioinformatics context: metagenomics workflows, HGT and mobile-element analyses, large genome-scale datasets, FAIR data practices.
 
 ---
 
@@ -55,15 +54,15 @@ Bioinformatics context: metagenomics workflows, HGT / mobile-element analyses, l
 
 - Postdoctoral Researcher, University of Helsinki (Apr 2024 – present)
 - Doctoral Researcher, University of Helsinki (Jan 2020 – Feb 2024)
-- Earlier research roles at icddr,b and ECTAD-FAO (field epidemiology & data)
-- ~8 publications · ~183 citations · PhD Thesis Award (Suomen Sianjalostussäätiö, 2024)
+- Earlier research roles at icddr,b and ECTAD-FAO (field epidemiology and data)
+- About 8 publications · about 183 citations · PhD Thesis Award (Suomen Sianjalostussäätiö, 2024)
 
-Finnish citizen · Finnish B1 · Based in Helsinki · Open to relocate within EU / CH
+Finnish citizen · Finnish B1 · Based in Helsinki · Open to relocate within the EU and Switzerland
 
 ---
 
 ## Looking for
 
-Senior Computational Biologist / Data Scientist / Bioinformatics Scientist roles where biology, ML, and reproducible pipelines meet — microbiome, multi-omics, NGS analytics, or foundation models[...]
+Senior computational biologist, data scientist, or bioinformatics scientist roles where biology, machine learning, and reproducible pipelines meet: microbiome, multi-omics, sequencing analysis, or DNA sequence models.
 
 If that matches a role on your team, reach out via LinkedIn or email.

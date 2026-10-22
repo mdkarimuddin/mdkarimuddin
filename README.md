@@ -61,8 +61,4 @@ Finnish citizen · Finnish B1 · Based in Helsinki · Open to relocate within th
 
 ---
 
-## Looking for
 
-Data science, machine learning, and AI roles in Finland, with computational biology as the bridge into microbiome, multi-omics, and sequence analysis. Also open to the rest of the EU and Switzerland.
-
-If that matches a role on your team, reach out via LinkedIn or email.
